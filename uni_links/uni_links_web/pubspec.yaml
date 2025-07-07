@@ -5,9 +5,8 @@ description: A web implementation of the Uni Links platform interface.
 environment: 
   sdk: '>=2.12.0 <3.0.0'
   flutter: '>=2.0.1 <3.0.0'
-dependencies: 
-  uni_links2_platform_interface: 
-    path: ./uni_links_platform_interface
+dependencies:
+  uni_links_platform_interface: ^1.0.0
   flutter: 
     sdk: flutter
   flutter_web_plugins: 
